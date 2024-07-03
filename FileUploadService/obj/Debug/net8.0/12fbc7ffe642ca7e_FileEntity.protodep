@@ -1,0 +1,3 @@
+obj\Debug\net8.0\Protos/FileEntity.cs \
+obj\Debug\net8.0\Protos/FileEntityGrpc.cs: C:/Users/danil/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/wrappers.proto\
+ Protos/FileEntity.proto

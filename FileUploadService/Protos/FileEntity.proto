@@ -1,0 +1,68 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "FileUploadService";
+
+package FileEntity;
+
+import "google/protobuf/wrappers.proto";
+
+service FileUploadService{
+	rpc UploadFileAsync(UploadFileEntityDto) returns (BaseResultFileEntityDto);
+	rpc DownloadFileAsync(DownloadFileEntityDto) returns (BaseResultDownloadedFileEntityDto);
+	rpc DeleteFileAsync(FileEntityId) returns (BaseResultFileEntityDto);
+	rpc GetFilesByProjectId(ProjectId) returns (CollectionResultFileEntityDto);
+}
+
+message FileEntityDto{
+	string id = 1; 
+	string name = 2; 
+	string projectId = 3;
+}
+
+message DownloadFileEntityDto{
+	string name = 1;
+	string projectId = 2;
+}
+
+message DownloadedFileEntityDto{
+	string id = 1; 
+	string name = 2;
+	string fileURL = 3;
+}
+
+message UploadFileEntityDto{
+	string name = 1; 
+	bytes  fileBytes = 2; 
+	string projectId = 3;
+	string userId = 4;
+}
+
+message BaseResultFileEntityDto{
+	bool isSuccess = 1;
+	google.protobuf.StringValue errorMessage = 2;
+	google.protobuf.Int32Value errorCode = 3;
+	FileEntityDto Data = 4;
+}
+
+message BaseResultDownloadedFileEntityDto{
+	bool isSuccess = 1;
+	google.protobuf.StringValue errorMessage = 2;
+	google.protobuf.Int32Value errorCode = 3;
+	DownloadedFileEntityDto Data = 4;
+}
+
+message CollectionResultFileEntityDto{
+	bool isSuccess = 1;
+	google.protobuf.StringValue errorMessage = 2;
+	google.protobuf.Int32Value errorCode = 3;
+	repeated FileEntityDto Data = 4;
+	google.protobuf.Int32Value count = 5;
+}
+
+message FileEntityId{
+	string id = 1; 
+}
+
+message ProjectId{
+	string id = 1; 
+}

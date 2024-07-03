@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBD98A9-4EC9-471B-A681-D8AF8B5722F7}|..\\FileUploadService.Application\\FileUploadService.Application.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice.application\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danil\\AppData\\Roaming\\Microsoft\\UserSecrets\\dd2a3ac9-1630-4a5e-8e90-a0bf698a0e80\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBD98A9-4EC9-471B-A681-D8AF8B5722F7}|..\\FileUploadService.Application\\FileUploadService.Application.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice.application\\services\\fileentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice\\protos\\fileentity.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|solutionrelative:protos\\fileentity.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice\\converters\\baseresultsconverters\\resultsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|solutionrelative:converters\\baseresultsconverters\\resultsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice\\converters\\dtosconverters\\dtosconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|solutionrelative:converters\\dtosconverters\\dtosconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice\\controllers\\fileentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|solutionrelative:controllers\\fileentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D704F3-5CA3-4E34-972F-48C21A753692}|..\\FileUploadService.Domain\\FileUploadService.Domain.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice.domain\\result\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice\\middlewares\\filesizelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A657C55D-0EB8-4DD5-8A59-234BB752189C}|FileUploadService.csproj|solutionrelative:middlewares\\filesizelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083CCBC2-8AC1-4BF1-BE1F-452F1236476E}|..\\FileUploadService.DAL\\FileUploadService.DAL.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice.dal\\configurations\\fileentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083CCBC2-8AC1-4BF1-BE1F-452F1236476E}|..\\FileUploadService.DAL\\FileUploadService.DAL.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice.dal\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D704F3-5CA3-4E34-972F-48C21A753692}|..\\FileUploadService.Domain\\FileUploadService.Domain.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice.domain\\interfaces\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083CCBC2-8AC1-4BF1-BE1F-452F1236476E}|..\\FileUploadService.DAL\\FileUploadService.DAL.csproj|c:\\users\\danil\\source\\repos\\fileupload\\fileuploadservice.dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.Application\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\FileUploadService.Application\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.Application\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\FileUploadService.Application\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:44:47.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultsConverter.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Converters\\BaseResultsConverters\\ResultsConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\BaseResultsConverters\\ResultsConverter.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Converters\\BaseResultsConverters\\ResultsConverter.cs",
+              "RelativeToolTip": "Converters\\BaseResultsConverters\\ResultsConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:59:43.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DtosConverter.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Converters\\DtosConverters\\DtosConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\DtosConverters\\DtosConverter.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Converters\\DtosConverters\\DtosConverter.cs",
+              "RelativeToolTip": "Converters\\DtosConverters\\DtosConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:47:20.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileEntityController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Controllers\\FileEntityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FileEntityController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Controllers\\FileEntityController.cs",
+              "RelativeToolTip": "Controllers\\FileEntityController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwFMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:59:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.Domain\\Result\\BaseResult.cs",
+              "RelativeDocumentMoniker": "..\\FileUploadService.Domain\\Result\\BaseResult.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.Domain\\Result\\BaseResult.cs",
+              "RelativeToolTip": "..\\FileUploadService.Domain\\Result\\BaseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:50:34.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileEntity.proto",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Protos\\FileEntity.proto",
+              "RelativeDocumentMoniker": "Protos\\FileEntity.proto",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Protos\\FileEntity.proto",
+              "RelativeToolTip": "Protos\\FileEntity.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-07-03T11:39:41.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileEntityService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.Application\\Services\\FileEntityService.cs",
+              "RelativeDocumentMoniker": "..\\FileUploadService.Application\\Services\\FileEntityService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.Application\\Services\\FileEntityService.cs",
+              "RelativeToolTip": "..\\FileUploadService.Application\\Services\\FileEntityService.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAIwC8AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:25:00.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:30:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T12:40:06.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\danil\\AppData\\Roaming\\Microsoft\\UserSecrets\\dd2a3ac9-1630-4a5e-8e90-a0bf698a0e80\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\dd2a3ac9-1630-4a5e-8e90-a0bf698a0e80\\secrets.json",
+              "ToolTip": "C:\\Users\\danil\\AppData\\Roaming\\Microsoft\\UserSecrets\\dd2a3ac9-1630-4a5e-8e90-a0bf698a0e80\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\dd2a3ac9-1630-4a5e-8e90-a0bf698a0e80\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T14:01:50.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileSizeLimitMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Middlewares\\FileSizeLimitMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\FileSizeLimitMiddleware.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService\\Middlewares\\FileSizeLimitMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\FileSizeLimitMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:17:15.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.DAL\\Configurations\\FileEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\FileUploadService.DAL\\Configurations\\FileEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.DAL\\Configurations\\FileEntityConfiguration.cs",
+              "RelativeToolTip": "..\\FileUploadService.DAL\\Configurations\\FileEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:49:34.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\FileUploadService.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\FileUploadService.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:19:54.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.Domain\\Interfaces\\IAuditable.cs",
+              "RelativeDocumentMoniker": "..\\FileUploadService.Domain\\Interfaces\\IAuditable.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.Domain\\Interfaces\\IAuditable.cs",
+              "RelativeToolTip": "..\\FileUploadService.Domain\\Interfaces\\IAuditable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:15:50.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.DAL\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\FileUploadService.DAL\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\FileUpload\\FileUploadService.DAL\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "..\\FileUploadService.DAL\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:07:48.099Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

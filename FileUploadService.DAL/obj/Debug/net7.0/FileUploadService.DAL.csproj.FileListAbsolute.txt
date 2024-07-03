@@ -1,0 +1,15 @@
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\bin\Debug\net7.0\FileUploadService.DAL.deps.json
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\bin\Debug\net7.0\FileUploadService.DAL.dll
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\bin\Debug\net7.0\FileUploadService.DAL.pdb
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\bin\Debug\net7.0\FileUploadService.Domain.dll
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\bin\Debug\net7.0\FileUploadService.Domain.pdb
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\FileUploadService.DAL.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\FileUploadService.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\FileUploadService.DAL.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\FileUploadService.DAL.AssemblyInfo.cs
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\FileUploadService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\FileUplo.5B3837CD.Up2Date
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\FileUploadService.DAL.dll
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\refint\FileUploadService.DAL.dll
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\FileUploadService.DAL.pdb
+C:\Users\danil\source\repos\FileUpload\FileUploadService.DAL\obj\Debug\net7.0\ref\FileUploadService.DAL.dll
